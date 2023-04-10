@@ -1,4 +1,10 @@
 # seeting
+# output
+![IMG_20230410_130321](https://user-images.githubusercontent.com/104633827/230907979-fcc3d720-bf03-4514-aa60-dd1f77849a22.jpg)
+![IMG_20230410_130346](https://user-images.githubusercontent.com/104633827/230907996-b605aee1-2dd5-48d4-b65d-97b92fea8516.jpg)
+![IMG_20230410_130336](https://user-images.githubusercontent.com/104633827/230908019-532560e9-187a-48ea-a405-8adadf0fb9c1.jpg)
+
+
 
 A new Flutter project.
 
